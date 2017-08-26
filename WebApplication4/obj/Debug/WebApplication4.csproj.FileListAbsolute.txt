@@ -1,0 +1,158 @@
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebGrease.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Owin.dll
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.xml
+c:\users\stefanl\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Owin.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\WebGrease.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\EntityFramework.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\vul2214\Desktop\Source Code\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\csc.exe
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\WebApplication4.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\WebApplication4.pdb
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Antlr3.Runtime.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.Owin.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.Owin.Security.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Newtonsoft.Json.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Owin.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.Optimization.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.WebPages.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\WebGrease.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\EntityFramework.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.Owin.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Microsoft.Owin.Security.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.Optimization.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.WebPages.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Antlr3.Runtime.pdb
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\bin\Newtonsoft.Json.xml
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\stefanl\Desktop\Ver 2.0\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
